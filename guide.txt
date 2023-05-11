@@ -1,0 +1,31 @@
+Wasender v1.5 Update Documentation
+
+// ------------------------------------- //
+
+1) How To Update
+
+
+
+- make an full backup of your site
+
+- replace app folder from your webroot
+
+- replace resources folder from your webroot
+
+- replace routes folder from your webroot
+
+- replace whatsapp.js file from your webroot
+
+
+
+
+
+// ------------------------------------- //
+
+
+Last Update: 6 May 2023
+By: AMCoders
+Email: amcoders360@gmail.com
+
+
+Copyright © 2023 AMCoders All rights reserved
